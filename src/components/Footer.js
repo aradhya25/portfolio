@@ -1,28 +1,49 @@
-import React from 'react'
+import React from "react";
 
-import data from '../data/data.json'
+import data from "../data/data.json";
 
 const Footer = () => {
+  const { socialLinks } = data.data;
 
-    const { socialLinks } = data.data
-
-    return (
-        <div className="footer-section px-2">
-            <hr />
-            <div className="container mb-3">
-                <p className="text-center">
-                    &copy; {new Date().getFullYear()} - Beautifully Crafted with ❤️ and ☕ By <a style={{textDecoration: 'none'}} target='_blank' rel="noreferrer">Aradhya Kulkarni</a> 😊
-                </p>
-                <div class="footer-social">
-                    <ul class="social-icons">
-                        <li><a target='_blank' rel="noreferrer" href={socialLinks.linkedin}><i class="fab fa-linkedin-in"></i></a></li>
-                        <li><a target='_blank' rel="noreferrer" href={socialLinks.github}><i class="fab fa-github"></i></a></li>
-                        <li><a target='_blank' rel="noreferrer" href={socialLinks.instagram}><i class="fab fa-instagram"></i></a></li>
-                    </ul>
-                </div>
-            </div>
+  return (
+    <div className="footer-section px-2">
+      <hr />
+      <div className="container mb-3">
+        <p className="text-center">
+          &copy; {new Date().getFullYear()} - Beautifully Crafted with ❤️ and ☕
+          By{" "}
+          <a
+            href="https://github.com/aradhya25"
+            style={{ textDecoration: "none" }}
+            target="_blank"
+            rel="noreferrer"
+          >
+            Aradhya Kulkarni
+          </a>{" "}
+          😊
+        </p>
+        <div class="footer-social">
+          <ul class="social-icons">
+            <li>
+              <a target="_blank" rel="noreferrer" href={socialLinks.linkedin}>
+                <i class="fab fa-linkedin-in"></i>
+              </a>
+            </li>
+            <li>
+              <a target="_blank" rel="noreferrer" href={socialLinks.github}>
+                <i class="fab fa-github"></i>
+              </a>
+            </li>
+            <li>
+              <a target="_blank" rel="noreferrer" href={socialLinks.instagram}>
+                <i class="fab fa-instagram"></i>
+              </a>
+            </li>
+          </ul>
         </div>
-    )
-}
+      </div>
+    </div>
+  );
+};
 
-export default Footer
+export default Footer;

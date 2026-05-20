@@ -19,7 +19,7 @@ function Navbar() {
                 </div> */}
                 <nav className="navbar navbar-expand-lg row" style={{ background: '#1D1D23', padding: '17px' }} data-bs-theme="dark">
                     <div className="container-fluid">
-                        <a className="navbar-brand p-0" href="#">
+                       <a className="navbar-brand p-0" href="/">
                             <img
                                 src={imagepath + logo}
                                 alt="Vandit Shah - logo"
@@ -65,16 +65,16 @@ function Navbar() {
             <div id="contact-left">
                 {/* <div id="contact-line" /> */}
                 <div id="contact-left-links">
-                    <a target='_blank' href={socialLinks.github}>
+                    <a rel="noreferrer" href={socialLinks.github}>
                         <i className="fab fa-github" />
                     </a>
-                    <a target='_blank' href={socialLinks.linkedin}>
+                    <a rel="noreferrer" href={socialLinks.linkedin}>
                         <i className="fab fa-linkedin-in" />
                     </a>
-                    <a target='_blank' href={`mailto:` + email}>
+                    <a rel="noreferrer" href={`mailto:` + email}>
                         <i className="fas fa-envelope" />
                     </a>
-                    <a target='_blank' href={socialLinks.instagram}>
+                    <a rel="noreferrer" href={socialLinks.instagram}>
                         <i className="fab fa-instagram" />
                     </a>
                 </div>
