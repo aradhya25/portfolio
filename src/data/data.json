@@ -92,20 +92,19 @@
   },
 
   {
-    "projectName": "QuickChat",
-    "projectType": "REAL-TIME CHAT APPLICATION",
-    "projectImage": ["Project3/quickchat.png"],
-    "techStack": [
-      { "name": "React", "image": "react" },
-      { "name": "Node Js", "image": "node" },
-      { "name": "Express Js", "image": "express" },
-      { "name": "MongoDB", "image": "mdb" },
-      { "name": "Socket.IO", "image": "socket" }
-    ],
-    "description": "A real-time chat application built using the MERN stack and Socket.IO, featuring instant messaging, responsive UI, user authentication, and seamless real-time communication between users.",
-    "githubLink": "YOUR_GITHUB_LINK",
-    "liveLink": "YOUR_LIVE_LINK"
-  }
+  "projectName": "AI Resume Analyzer & Interview Preparation Platform",
+  "projectType": "AI-POWERED CAREER ASSISTANCE PLATFORM",
+  "projectImage": ["Project3/AI-Resume.png"],
+  "techStack": [
+    { "name": "React", "image": "react" },
+    { "name": "Node Js", "image": "node" },
+    { "name": "Express Js", "image": "express" },
+    { "name": "MongoDB", "image": "mdb" }
+  ],
+  "description": "An AI-powered platform that allows users to upload resumes, analyze job descriptions, identify skill gaps, generate ATS-optimized resumes, and create AI-based interview questions for better placement preparation.",
+  "githubLink": "YOUR_GITHUB_LINK",
+  "liveLink": "YOUR_LIVE_LINK"
+}
 ],
     "contactParagraph": "I'm currently open to work and get involved in new projects, so get in touch if you'd like to Hire me or work together.",
     "socialLinks": {
