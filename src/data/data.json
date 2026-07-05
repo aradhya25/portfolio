@@ -10,102 +10,102 @@
       "Building Real-World Projects"
     ],
     "subTitle": "MERN stack developer passionate about building scalable web apps, exploring new technologies, and turning ideas into real-world projects.",
-    "resumeLink": "https://drive.google.com/file/d/1C6Sh77SgV5JVcX700AQhGOnFpI7dcE1T/view?usp=sharing",
-  "aboutDescription": [
-  "Hello! I'm Aradhya, an aspiring Software Engineer and MERN stack developer passionate about building scalable and user-friendly web applications.",
-  
-  "I am currently pursuing Information Technology Engineering and continuously improving my skills in full-stack development, Data Structures & Algorithms, and problem-solving.",
-  
-  "I have experience working with technologies like React.js, Node.js, Express.js, MongoDB, JavaScript, and REST APIs while developing real-world projects and responsive web applications.",
-  
-  "I enjoy transforming ideas into practical solutions and love exploring modern technologies that help create impactful digital experiences.",
-  
-  "Apart from development, I actively focus on strengthening my coding fundamentals, learning new tools, and building projects that enhance my technical and problem-solving abilities.",
-  
-  "I am currently looking for internship and placement opportunities where I can contribute, learn from experienced developers, and grow as a software engineer."
-],
+    "resumeLink": "https://drive.google.com/file/d/1UJi5HC_5RoFGLm4YglFzXBGQnxmuBRLO/view?usp=sharing",
+    "aboutDescription": [
+      "Hello! I'm Aradhya, an aspiring Software Engineer and MERN stack developer passionate about building scalable and user-friendly web applications.",
+
+      "I am currently pursuing Information Technology Engineering and continuously improving my skills in full-stack development, Data Structures & Algorithms, and problem-solving.",
+
+      "I have experience working with technologies like React.js, Node.js, Express.js, MongoDB, JavaScript, and REST APIs while developing real-world projects and responsive web applications.",
+
+      "I enjoy transforming ideas into practical solutions and love exploring modern technologies that help create impactful digital experiences.",
+
+      "Apart from development, I actively focus on strengthening my coding fundamentals, learning new tools, and building projects that enhance my technical and problem-solving abilities.",
+
+      "I am currently looking for internship and placement opportunities where I can contribute, learn from experienced developers, and grow as a software engineer."
+    ],
     "aboutImage": "pp.jpeg",
     "skills": [
-  {
-    "title": "Frontend",
-    "skillname": [
-      { "name": "HTML", "image": "html" },
-      { "name": "CSS", "image": "css" },
-      { "name": "JavaScript", "image": "javascript" },
-      { "name": "React Js", "image": "react" }
-    ]
-  },
-  {
-    "title": "Backend",
-    "skillname": [
-      { "name": "Node Js", "image": "node" },
-      { "name": "Express Js", "image": "express" },
-      { "name": "MongoDB", "image": "mdb" },
-      { "name": "SQL", "image": "mysql" }
-    ]
-  },
-  {
-    "title": "Programming & Tools",
-    "skillname": [
-      { "name": "C", "image": "c" },
-      { "name": "C++", "image": "c++" },
-      { "name": "Java", "image": "java" },
-      { "name": "Python", "image": "py" },
-      { "name": "Git", "image": "git" },
-      { "name": "GitHub", "image": "github" },
-      { "name": "Canva", "image": "canva" },
-      { "name": "MS Office", "image": "msoffice" }
-    ]
-  }
-],
+      {
+        "title": "Frontend",
+        "skillname": [
+          { "name": "HTML", "image": "html" },
+          { "name": "CSS", "image": "css" },
+          { "name": "JavaScript", "image": "javascript" },
+          { "name": "React Js", "image": "react" }
+        ]
+      },
+      {
+        "title": "Backend",
+        "skillname": [
+          { "name": "Node Js", "image": "node" },
+          { "name": "Express Js", "image": "express" },
+          { "name": "MongoDB", "image": "mdb" },
+          { "name": "SQL", "image": "mysql" }
+        ]
+      },
+      {
+        "title": "Programming & Tools",
+        "skillname": [
+          { "name": "C", "image": "c" },
+          { "name": "C++", "image": "c++" },
+          { "name": "Java", "image": "java" },
+          { "name": "Python", "image": "py" },
+          { "name": "Git", "image": "git" },
+          { "name": "GitHub", "image": "github" },
+          { "name": "Canva", "image": "canva" },
+          { "name": "MS Office", "image": "msoffice" }
+        ]
+      }
+    ],
     "projects": [
-  {
-    "projectName": "Career Elevate",
-    "projectType": "CAREER GUIDANCE & MENTORSHIP PLATFORM",
-    "projectImage": ["Project2/careerelevate.png"],
-    "techStack": [
-      { "name": "React", "image": "react" },
-      { "name": "Node Js", "image": "node" },
-      { "name": "Express Js", "image": "express" },
-      { "name": "MongoDB", "image": "mdb" },
-      { "name": "JavaScript", "image": "javascript" }
-    ],
-    "description": "A full-stack career guidance and mentorship platform that helps students explore career paths, connect with mentors, book mentorship sessions, and access guidance resources through an interactive and user-friendly interface.",
-    "githubLink": "YOUR_GITHUB_LINK",
-    "liveLink": "YOUR_LIVE_LINK"
-  },
+      {
+        "projectName": "Career Elevate",
+        "projectType": "CAREER GUIDANCE & MENTORSHIP PLATFORM",
+        "projectImage": ["Project2/careerelevate.png"],
+        "techStack": [
+          { "name": "React", "image": "react" },
+          { "name": "Node Js", "image": "node" },
+          { "name": "Express Js", "image": "express" },
+          { "name": "MongoDB", "image": "mdb" },
+          { "name": "JavaScript", "image": "javascript" }
+        ],
+        "description": "A full-stack career guidance and mentorship platform that helps students explore career paths, connect with mentors, book mentorship sessions, and access guidance resources through an interactive and user-friendly interface.",
+        "githubLink": "YOUR_GITHUB_LINK",
+        "liveLink": "YOUR_LIVE_LINK"
+      },
 
-  {
-    "projectName": "VidBridge",
-    "projectType": "CREATOR-EDITOR COLLABORATION PLATFORM",
-    "projectImage": ["Project1/vidbridge.jpg"],
-    "techStack": [
-      { "name": "React", "image": "react" },
-      { "name": "Node Js", "image": "node" },
-      { "name": "Express Js", "image": "express" },
-      { "name": "MongoDB", "image": "mdb" },
-      { "name": "Tailwind", "image": "tailwind" }
-    ],
-    "description": "A MERN stack platform designed for YouTube creators and video editors to collaborate efficiently. Editors can upload edited videos, creators can review and approve content, and approved videos can be managed seamlessly through the platform.",
-    "githubLink": "YOUR_GITHUB_LINK",
-    "liveLink": "YOUR_LIVE_LINK"
-  },
+      {
+        "projectName": "VidBridge",
+        "projectType": "CREATOR-EDITOR COLLABORATION PLATFORM",
+        "projectImage": ["Project1/vidbridge.jpg"],
+        "techStack": [
+          { "name": "React", "image": "react" },
+          { "name": "Node Js", "image": "node" },
+          { "name": "Express Js", "image": "express" },
+          { "name": "MongoDB", "image": "mdb" },
+          { "name": "Tailwind", "image": "tailwind" }
+        ],
+        "description": "A MERN stack platform designed for YouTube creators and video editors to collaborate efficiently. Editors can upload edited videos, creators can review and approve content, and approved videos can be managed seamlessly through the platform.",
+        "githubLink": "YOUR_GITHUB_LINK",
+        "liveLink": "YOUR_LIVE_LINK"
+      },
 
-  {
-  "projectName": "AI Resume Analyzer & Interview Preparation Platform",
-  "projectType": "AI-POWERED CAREER ASSISTANCE PLATFORM",
-  "projectImage": ["Project3/AI-Resume.png"],
-  "techStack": [
-    { "name": "React", "image": "react" },
-    { "name": "Node Js", "image": "node" },
-    { "name": "Express Js", "image": "express" },
-    { "name": "MongoDB", "image": "mdb" }
-  ],
-  "description": "An AI-powered platform that allows users to upload resumes, analyze job descriptions, identify skill gaps, generate ATS-optimized resumes, and create AI-based interview questions for better placement preparation.",
-  "githubLink": "YOUR_GITHUB_LINK",
-  "liveLink": "YOUR_LIVE_LINK"
-}
-],
+      {
+        "projectName": "AI Resume Analyzer & Interview Preparation Platform",
+        "projectType": "AI-POWERED CAREER ASSISTANCE PLATFORM",
+        "projectImage": ["Project3/AI-Resume.png"],
+        "techStack": [
+          { "name": "React", "image": "react" },
+          { "name": "Node Js", "image": "node" },
+          { "name": "Express Js", "image": "express" },
+          { "name": "MongoDB", "image": "mdb" }
+        ],
+        "description": "An AI-powered platform that allows users to upload resumes, analyze job descriptions, identify skill gaps, generate ATS-optimized resumes, and create AI-based interview questions for better placement preparation.",
+        "githubLink": "YOUR_GITHUB_LINK",
+        "liveLink": "YOUR_LIVE_LINK"
+      }
+    ],
     "contactParagraph": "I'm currently open to work and get involved in new projects, so get in touch if you'd like to Hire me or work together.",
     "socialLinks": {
       "github": "https://github.com/aradhya25",
