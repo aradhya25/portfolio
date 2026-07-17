@@ -58,20 +58,30 @@
         ]
       }
     ],
+   "internships": [
+  {
+    "company": "Hindustan Aeronautics Limited (HAL)",
+    "role": "Database Intern",
+    "duration": "Jun 2026 – Jul 2026",
+    "location": "Nashik, Maharashtra",
+    "description": "Worked on SQL queries, database management, data retrieval, and report generation. Assisted in maintaining relational databases and ensuring data accuracy for business operations."
+  }
+],
     "projects": [
       {
-        "projectName": "Career Elevate",
-        "projectType": "CAREER GUIDANCE & MENTORSHIP PLATFORM",
-        "projectImage": ["Project2/careerelevate.png"],
+        "projectName": "LearnSphere",
+        "projectType": "AI-POWERED LEARNING MANAGEMENT SYSTEM",
+        "projectImage": ["Project1/home.png"],
         "techStack": [
           { "name": "React", "image": "react" },
           { "name": "Node Js", "image": "node" },
           { "name": "Express Js", "image": "express" },
-          { "name": "MongoDB", "image": "mdb" },
-          { "name": "JavaScript", "image": "javascript" }
+          { "name": "PostgreSQL", "image": "postgressql" },
+          { "name": "Tailwind CSS", "image": "tailwind" },
+          { "name": "Gemini AI", "image": "gemini" }
         ],
-        "description": "A full-stack career guidance and mentorship platform that helps students explore career paths, connect with mentors, book mentorship sessions, and access guidance resources through an interactive and user-friendly interface.",
-        "githubLink": "YOUR_GITHUB_LINK",
+        "description": "An AI-powered Learning Management System that enables secure authentication, course creation, lesson management, quiz generation, student enrollment, progress tracking, and AI-powered quiz and lesson summary generation using Gemini AI.",
+        "githubLink": "https://github.com/aradhya25/LearnSphere.git",
         "liveLink": "YOUR_LIVE_LINK"
       },
 
@@ -87,7 +97,7 @@
           { "name": "Tailwind", "image": "tailwind" }
         ],
         "description": "A MERN stack platform designed for YouTube creators and video editors to collaborate efficiently. Editors can upload edited videos, creators can review and approve content, and approved videos can be managed seamlessly through the platform.",
-        "githubLink": "YOUR_GITHUB_LINK",
+        "githubLink": "https://github.com/aradhya25/VidBridge.git",
         "liveLink": "YOUR_LIVE_LINK"
       },
 
@@ -102,7 +112,22 @@
           { "name": "MongoDB", "image": "mdb" }
         ],
         "description": "An AI-powered platform that allows users to upload resumes, analyze job descriptions, identify skill gaps, generate ATS-optimized resumes, and create AI-based interview questions for better placement preparation.",
-        "githubLink": "YOUR_GITHUB_LINK",
+        "githubLink": "https://github.com/aradhya25/AI-Resume-Analyzer-Interview-Preparation-Platform-.git",
+        "liveLink": "YOUR_LIVE_LINK"
+      },
+      {
+        "projectName": "Career Elevate",
+        "projectType": "CAREER GUIDANCE & MENTORSHIP PLATFORM",
+        "projectImage": ["Project2/careerelevate.png"],
+        "techStack": [
+          { "name": "React", "image": "react" },
+          { "name": "Node Js", "image": "node" },
+          { "name": "Express Js", "image": "express" },
+          { "name": "MongoDB", "image": "mdb" },
+          { "name": "JavaScript", "image": "javascript" }
+        ],
+        "description": "A full-stack career guidance and mentorship platform that helps students explore career paths, connect with mentors, book mentorship sessions, and access guidance resources through an interactive and user-friendly interface.",
+        "githubLink": "https://github.com/aradhya25/Career-Elevate.git",
         "liveLink": "YOUR_LIVE_LINK"
       }
     ],
